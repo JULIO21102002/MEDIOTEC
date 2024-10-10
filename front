@@ -1,0 +1,35 @@
+Para documentar as partes de front-end e back-end do projeto Mediotec Gerenciamento
+Escolar, você pode seguir este modelo detalhado:
+Mediotec Gerenciamento Escolar - Documentação
+Descrição do Projeto
+O Mediotec Gerenciamento Escolar é um sistema para gerenciar escolas, desenvolvido com
+um front-end em React e um back-end em Java Spring Boot. O sistema inclui
+funcionalidades de gerenciamento de alunos, professores, turmas e outros aspectos
+escolares.
+Estrutura do Repositório
+O sistema é dividido em dois repositórios:
+• Front-End: Interface gráfica da aplicação, desenvolvida com React.
+• Back-End: API e lógica de negócios, desenvolvida com Spring Boot.
+Front-End
+Link para o Front-End:
+• https://mediotec.netlify.app
+Tecnologias Usadas
+• React: Biblioteca JavaScript para criar interfaces de usuário.
+• Tailwind CSS: Framework CSS para estilização rápida e eficiente.
+• Vite: Ferramenta de build para desenvolvimento rápido de aplicações.
+Instalação do Front-End
+1. Clone o repositório do front-end:
+git clone https://github.com/usuario/front-end-repo.git
+2. Navegue até a pasta do projeto:
+cd front-end-repo
+3. Instale as dependências:
+npm install
+Como Rodar o Front-End
+Para rodar o projeto localmente:
+npm run dev
+O projeto estará disponível em http://localhost:3000 ou outro endereço mostrado no
+terminal.
+Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Essa documentação cobre o essencial para rodar tanto o front-end quanto o back-end do
+sistema Mediotec Gerenciamento Escolar.
